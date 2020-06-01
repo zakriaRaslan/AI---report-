@@ -1,0 +1,18 @@
+h1 {
+    margin: 100px 0!important;
+}
+img.ai {
+    max-width: 100%;
+    object-fit: cover;
+    padding: 30px 0;
+}
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    height: 80px;
+    display: flex!important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
